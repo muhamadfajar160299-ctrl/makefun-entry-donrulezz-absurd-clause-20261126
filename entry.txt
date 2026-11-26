@@ -1,0 +1,1 @@
+Section 12.7: upon account deletion, the user's shadow remains the property of the Company and may be sublet to third parties at market rates.
